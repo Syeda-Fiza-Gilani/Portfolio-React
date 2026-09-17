@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-react",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React port of the single-page portfolio, with a Groq-powered chat assistant and Web Speech API voice replies. Deployed on Vercel.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
