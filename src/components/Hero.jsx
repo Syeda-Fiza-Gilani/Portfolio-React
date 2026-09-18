@@ -8,7 +8,7 @@ export default function Hero() {
           that don't <em>break</em> under scale.
         </h1>
         <p className="hero__lede">
-          I'm Syeda Fiza Gilani — known online as Pixel-Quark. I bridge raw
+          I'm Syeda Fiza Gilani. I bridge raw
           LLM capability with production full-stack apps and enterprise
           revenue operations: memory-efficient backends, vector search, and
           human-in-the-loop automation for messy, unstructured data.
