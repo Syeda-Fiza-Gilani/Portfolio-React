@@ -6,17 +6,16 @@ export default function Contact() {
         The fastest way to reach me is email. I usually reply within a day or two.
       </p>
       {/* Replace with your real email address */}
-      <a className="contact__email" href="mailto:hello@pixelquark.dev">
-        hello@pixelquark.dev
+      <a className="contact__email" href="fizagilani05@gmail.com">
+        Email
       </a>
 
       <div className="contact__socials">
-        <a href="https://github.com/Pixel-Quark" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/Syeda-Fiza-Gilani" target="_blank" rel="noopener noreferrer">
           GitHub
         </a>
         {/* Replace these with your real LinkedIn / X profile URLs */}
-        <a href="#" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        <a href="#" target="_blank" rel="noopener noreferrer">Twitter / X</a>
+        <a href="www.linkedin.com/in/syeda-fiza-gilani-9081aa41b" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </div>
     </section>
   );
