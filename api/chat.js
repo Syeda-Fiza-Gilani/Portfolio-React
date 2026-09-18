@@ -79,7 +79,7 @@ export default async function handler(req, res) {
   }
 
   // Fail early and clearly if the key hasn't been configured on Vercel yet.
-  const apiKey = process.env.GROQ_API_KEY;
+  const apiKey = process.env.grok_api_key;
   if (!apiKey) {
     return res.status(500).json({
       error: "Server is missing GROQ_API_KEY. Add it in Vercel's Environment Variables and redeploy.",
