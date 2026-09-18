@@ -6,8 +6,8 @@ export default function Contact() {
         The fastest way to reach me is email. I usually reply within a day or two.
       </p>
       {/* Replace with your real email address */}
-      <a className="contact__email" href="fizagilani05@gmail.com">
-        Email
+      <a className="contact__email" href="mailto:fizagilani05@gmail.com">
+        fizagilani05@gmail.com
       </a>
 
       <div className="contact__socials">
