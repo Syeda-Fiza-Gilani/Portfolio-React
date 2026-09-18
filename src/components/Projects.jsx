@@ -53,6 +53,16 @@ export default function Projects() {
               <h3>{project.title}</h3>
               <p>{project.description}</p>
               <span className="project__tags">{project.tags}</span>
+              {project.link && (
+                <a
+                  className="project__link"
+                  href={project.link.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {project.link.label}
+                </a>
+              )}
             </article>
           )
         )}
