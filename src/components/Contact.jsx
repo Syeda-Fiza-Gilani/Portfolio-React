@@ -15,7 +15,6 @@ export default function Contact() {
           GitHub
         </a>
         {/* Replace these with your real LinkedIn / X profile URLs */}
-        <a href="www.linkedin.com/in/syeda-fiza-gilani-9081aa41b" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </div>
     </section>
   );
