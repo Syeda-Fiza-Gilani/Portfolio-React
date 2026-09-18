@@ -71,7 +71,7 @@ to speak generally about the technologies mentioned; the rule is about not
 fabricating personal or professional facts about Fiza specifically.
 `.trim();
 
-module.exports = async function handler(req, res) {
+export default async function handler(req, res) {
   // Only accept POST requests.
   if (req.method !== "POST") {
     res.setHeader("Allow", "POST");
