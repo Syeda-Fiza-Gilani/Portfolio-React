@@ -16,7 +16,7 @@ import { useEffect, useRef, useState } from "react";
 const GREETING = {
   id: "greeting",
   role: "bot",
-  text: "Hi! I'm a small assistant standing in for Syeda Fiza Gilani (Pixel-Quark). Ask me about the projects, the stack used here, or how to get in touch.",
+  text: "Hi! I'm a small assistant standing in for Syeda Fiza Gilani. Ask me about the projects, the stack used here, or how to get in touch.",
 };
 
 function pickNaturalVoice() {
