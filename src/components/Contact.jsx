@@ -11,7 +11,7 @@ export default function Contact() {
         {/* Replace with your real LinkedIn profile URL */}
         <a
           className="contact__primary-link"
-          href="https://www.linkedin.com/in/your-profile"
+          href="https://www.linkedin.com/in/syeda-fiza-gilani-9081aa41b"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -26,7 +26,7 @@ export default function Contact() {
 
         <a
           className="contact__primary-link"
-          href="https://github.com/Pixel-Quark"
+          href="https://github.com/Syeda-Fiza-Gilani"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -41,7 +41,7 @@ export default function Contact() {
       </div>
 
       {/* Optional — de-emphasized on purpose. Replace with your real email. */}
-      <a className="contact__optional" href="mailto:yourname@gmail.com">
+      <a className="contact__optional" href="mailto:fizagilani05@gmail.com">
         <svg className="contact__icon contact__icon--small" viewBox="0 0 24 24" aria-hidden="true">
           <path
             fill="currentColor"
