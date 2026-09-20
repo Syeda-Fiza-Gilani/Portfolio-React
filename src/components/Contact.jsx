@@ -48,7 +48,7 @@ export default function Contact() {
             d="M2 5.5A2.5 2.5 0 0 1 4.5 3h15A2.5 2.5 0 0 1 22 5.5v13a2.5 2.5 0 0 1-2.5 2.5h-15A2.5 2.5 0 0 1 2 18.5v-13Zm2.2.3 7.4 5.55a.7.7 0 0 0 .8 0l7.4-5.55A.9.9 0 0 0 19.1 5H4.9a.9.9 0 0 0-.7.8Z"
           />
         </svg>
-        <span>or email me — yourname@gmail.com</span>
+        <span>or email me — fizagilani05@gmail.com</span>
       </a>
     </section>
   );
